@@ -1,13 +1,43 @@
-# React + Vite
+# 🍽️ Foodies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern web application for discovering and exploring meals from around the world using [TheMealDB API](https://www.themealdb.com/api.php).
 
-Currently, two official plugins are available:
+Built with **React**, **Redux Toolkit**, and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Foodies Banner](https://www.themealdb.com/images/logo-small.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# foodies
+## 🚀 Features
+
+### 🔍 Core Features
+- Meal search by name
+- Random meal discovery on banner
+- Featured meals in slider
+- Meal categories with filtering
+- Favorites/bookmark support (with localStorage)
+- Newsletter subscription (local simulation)
+- Responsive design with modern UI
+
+### 🎨 Design Features
+- Fully responsive across devices
+- Clean and consistent layout
+- Interactive UI (hover, transitions)
+- Blur backgrounds, custom icons, and sliders
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- ⚛️ React
+- 🧰 Redux Toolkit
+- 🎨 Tailwind CSS
+- 🌐 React Router DOM
+- 📦 Axios
+- 🎠 SwiperJS (for carousel)
+- 🎯 TheMealDB API
+
+---
+
+## 📁 Project Structure
+
