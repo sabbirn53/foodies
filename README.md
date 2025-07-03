@@ -42,13 +42,13 @@ Built with **React**, **Redux Toolkit**, and **Tailwind CSS**.
 ## 📁 Project Structure
 
 src/
-├── api/ # All MealDB API calls
-├── components/ # Reusable UI components
-├── features/ # Redux Toolkit slices
-├── pages/ # Route pages (Home, Search, Favorites)
-├── App.jsx # Main layout
-├── main.jsx # React root
-└── app/store.js # Redux store setup
+ ├── api/ # All MealDB API calls
+ ├── components/ # Reusable UI components
+ ├── features/ # Redux Toolkit slices
+ ├── pages/ # Route pages (Home, Search, Favorites)
+ ├── App.jsx # Main layout
+ ├── main.jsx # React root
+ └── app/store.js # Redux store setup
 
 ## 🛠️ Getting Started
 
