@@ -41,3 +41,26 @@ Built with **React**, **Redux Toolkit**, and **Tailwind CSS**.
 
 ## 📁 Project Structure
 
+src/
+├── api/ # All MealDB API calls
+├── components/ # Reusable UI components
+├── features/ # Redux Toolkit slices
+├── pages/ # Route pages (Home, Search, Favorites)
+├── App.jsx # Main layout
+├── main.jsx # React root
+└── app/store.js # Redux store setup
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sabbirn53/foodies.git
+cd foodies
+
+
+##Install dependencies
+npm install
+npm install react-redux @reduxjs/toolkit axios react-icons
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
